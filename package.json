@@ -1,0 +1,16 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "App to get the weather data and notify ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arulvelu Gunasekaran",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.13.0",
+    "twitter": "^1.7.1",
+    "worldweatheronline-api": "^2.2.3"
+  }
+}
